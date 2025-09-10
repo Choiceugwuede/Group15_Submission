@@ -13,5 +13,5 @@ The task is to help the Core Data Engineering (CDE) team gain a deeper understan
 The team collaborated to design and execute SQL queries that address key business questions and provide data-driven facts to support strategic decisions.  
 
 ## Project Files  
-- [PowerPoint Presentation]()
+- [PowerPoint Presentation](https://github.com/Choiceugwuede/Group15_Submission/blob/main/Circle15-PoseyAnalysis.pptx)
 - [SQL Scripts & Analysis](https://github.com/Choiceugwuede/Group15_Submission/blob/main/Scripts.sql)  
