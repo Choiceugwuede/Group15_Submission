@@ -14,4 +14,4 @@ The team collaborated to design and execute SQL queries that address key busines
 
 ## Project Files  
 - [PowerPoint Presentation]()
-- [SQL Scripts & Analysis] ()  
+- [SQL Scripts & Analysis](https://github.com/Choiceugwuede/Group15_Submission/blob/main/Scripts.sql)  
